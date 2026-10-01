@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=200&section=header&text=Neel%20Belsare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Systems%20Engineer%20%7C%20Spatial%20Logistics%20Architect&descFontSize=17&descAlignY=58&descColor=FF6B35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=190&section=header&text=Neel%20Belsare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Systems%20Engineer%20%7C%20Spatial%20Logistics%20Architect&descFontSize=17&descAlignY=58&descColor=FF6B35" width="100%" />
+
+  <br/><br/>
+
+  <!-- Welcoming 3D Animated Waving Avatar -->
+  <a href="https://neelbelsare.vercel.app">
+    <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_waving.gif" width="220" alt="Neel Belsare Welcoming 3D Avatar" />
+  </a>
 
   <br/><br/>
 
@@ -23,26 +30,13 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="36%" align="center" valign="middle">
-      <a href="https://neelbelsare.vercel.app">
-        <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_full.jpg" width="280" alt="Neel Belsare 3D Avatar" style="border-radius: 16px; border: 2px solid #FF6B35;" />
-      </a>
-    </td>
-    <td width="64%" valign="middle">
-      <h3>Hey there, I'm Neel Belsare 👋</h3>
-      <p>I am a <b>Systems &amp; Full-Stack Engineer</b> building high-performance distributed platforms, spatial dispatch engines, and intuitive consumer products.</p>
-      <ul>
-        <li>🌐 <b>Live Portfolio:</b> <a href="https://neelbelsare.vercel.app"><b>neelbelsare.vercel.app</b></a></li>
-        <li>⚡ <b>Flagship System:</b> <b>Aurangabad Quick-Commerce Dark Store Ecosystem (v4.0)</b> — an autonomous 10-minute grocery delivery network across 12 micro-fulfillment hubs serving 1.91M citizens.</li>
-        <li>🎯 <b>Specialties:</b> Spatial Graph Routing (OSRM/Haversine), Warehouse S-Curve Picking Heuristics (NumPy), Real-Time 3D Telemetry (PyDeck), and Low-Latency Edge APIs (FastAPI / Supabase).</li>
-        <li>📍 <b>Location:</b> Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India.</li>
-        <li>💼 <b>Status:</b> Open to Software Engineering Internships &amp; Full-Stack Roles.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I am a **Systems & Full-Stack Engineer** building high-performance distributed platforms, spatial dispatch engines, and intuitive consumer products.
+
+- 🌐 **Interactive Portfolio:** Explore my live projects, tech stack, and interactive 3D demos at **[https://neelbelsare.vercel.app](https://neelbelsare.vercel.app)**
+- ⚡ **Flagship Engineering Showcase:** Designed and built the **Aurangabad Quick-Commerce Dark Store Ecosystem (v4.0)** — an autonomous 10-minute grocery delivery network across 12 micro-fulfillment hubs serving 1.91M citizens.
+- 🎯 **Areas of Focus:** Spatial Graph Routing (OSRM/Haversine), Warehouse S-Curve Picking Heuristics (NumPy), Real-Time 3D Telemetry (PyDeck), and Low-Latency Edge APIs (FastAPI / Supabase).
+- 📍 **Location:** Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India.
+- 💼 **Status:** Open to Software Engineering Internships & Full-Stack Opportunities.
 
 <br/>
 
@@ -74,7 +68,7 @@
 - ⏱️ **Guaranteed SLA:** `< 10 minutes` doorstep delivery
 - 🏬 **Physical Hubs:** `12 Dark Stores` covering CIDCO, Kranti Chowk, Beed Bypass & Waluj MIDC
 - ⚡ **Dispatch Latency:** `< 3 seconds` automated nearest-hub assignment
-- 🔗 **Quick Links:**
+- 🔗 **Links:**
   - 🌐 **Live Portfolio:** [neelbelsare.vercel.app](https://neelbelsare.vercel.app)
   - 🛰️ **3D Operations Command Center:** [my-dark-store-app.streamlit.app](https://my-dark-store-app.streamlit.app/)
   - 📱 **Consumer Web/Mobile App:** [blinkit-aurangabad.netlify.app](https://blinkit-aurangabad.netlify.app)
