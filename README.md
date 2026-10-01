@@ -3,25 +3,32 @@
 
   <br/><br/>
 
-  <!-- Welcoming 3D Animated Waving Avatar -->
-  <a href="https://neelbelsare.vercel.app">
-    <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_waving.gif" width="220" alt="Neel Belsare Welcoming 3D Avatar" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=620&lines=Building+Hyper-Optimized+Distributed+Systems;Sub-10m+Quick-Commerce+Architecture;React+Native+%E2%80%A2+Next.js+14+%E2%80%A2+FastAPI+%E2%80%A2+PyDeck;Open+for+Software+Engineering+Roles+%26+Internships" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://neelbelsare.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://my-dark-store-app.streamlit.app/"><img src="https://img.shields.io/badge/Live_3D_Command_Center-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-    <a href="https://blinkit-aurangabad.netlify.app"><img src="https://img.shields.io/badge/Consumer_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-    <a href="mailto:neelbelsaredpvn@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  <table>
+    <tr>
+      <td width="38%" align="center" valign="middle">
+        <a href="https://neelbelsare.vercel.app">
+          <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_waving.jpg" width="260" alt="Neel Belsare 3D Avatar" style="border-radius: 14px; border: 2px solid #FF6B35;" />
+        </a>
+      </td>
+      <td width="62%" align="center" valign="middle">
+        <h2>👋 Welcome to my GitHub!</h2>
+        <br/>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=450&lines=Building+Hyper-Optimized+Distributed+Systems;Sub-10m+Quick-Commerce+Architecture;React+Native+%E2%80%A2+Next.js+14+%E2%80%A2+FastAPI;Open+for+Engineering+Roles+%26+Internships" alt="Typing SVG" />
+        </a>
+        <br/><br/>
+        <p align="center">
+          <a href="https://neelbelsare.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+          <br/><br/>
+          <a href="https://my-dark-store-app.streamlit.app/"><img src="https://img.shields.io/badge/Live_3D_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+          &nbsp;
+          <a href="https://blinkit-aurangabad.netlify.app"><img src="https://img.shields.io/badge/Consumer_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+          <br/><br/>
+          <a href="mailto:neelbelsaredpvn@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
