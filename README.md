@@ -10,7 +10,7 @@
   <br/><br/>
 
   <p align="center">
-    <a href="https://neel-belsare.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neel--belsare.github.io%2Fportfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://neelbelsare.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://my-dark-store-app.streamlit.app/"><img src="https://img.shields.io/badge/Live_3D_Command_Center-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
     <a href="https://blinkit-aurangabad.netlify.app"><img src="https://img.shields.io/badge/Consumer_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     <a href="mailto:neelbelsaredpvn@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,7 +25,7 @@
 
 I am a **Systems & Full-Stack Engineer** focused on building high-performance distributed platforms, spatial dispatch engines, and intuitive consumer products.
 
-- 🌐 **Interactive Portfolio:** Explore my live work, tech stack, and interactive 3D demos at **[https://neel-belsare.github.io/portfolio/](https://neel-belsare.github.io/portfolio/)**
+- 🌐 **Interactive Portfolio:** Explore my live work, tech stack, and interactive 3D demos at **[https://neelbelsare.vercel.app](https://neelbelsare.vercel.app)**
 - ⚡ **Flagship Engineering Showcase:** Designed and built the **Aurangabad Quick-Commerce Dark Store Ecosystem (v4.0)** — a complete 10-minute grocery delivery network across 12 micro-fulfillment hubs serving 1.91M citizens.
 - 🎯 **Areas of Focus:** Spatial Graph Routing (OSRM/Haversine), Warehouse S-Curve Picking Heuristics (NumPy), Real-Time 3D Telemetry (PyDeck), and Low-Latency Edge APIs (FastAPI / Supabase).
 - 📍 **Location:** Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India.
@@ -62,7 +62,7 @@ I am a **Systems & Full-Stack Engineer** focused on building high-performance di
 - 🏬 **Physical Hubs:** `12 Dark Stores` covering CIDCO, Kranti Chowk, Beed Bypass & Waluj MIDC
 - ⚡ **Dispatch Latency:** `< 3 seconds` automated nearest-hub assignment
 - 🔗 **Links:**
-  - 🌐 **Live Portfolio:** [https://neel-belsare.github.io/portfolio/](https://neel-belsare.github.io/portfolio/)
+  - 🌐 **Live Portfolio:** [neelbelsare.vercel.app](https://neelbelsare.vercel.app)
   - 🛰️ **3D Operations Command Center:** [my-dark-store-app.streamlit.app](https://my-dark-store-app.streamlit.app/)
   - 📱 **Consumer Web/Mobile App:** [blinkit-aurangabad.netlify.app](https://blinkit-aurangabad.netlify.app)
   - 💻 **Portfolio Source Code:** [github.com/Neel-Belsare/portfolio](https://github.com/Neel-Belsare/portfolio)
@@ -104,8 +104,8 @@ I am a **Systems & Full-Stack Engineer** focused on building high-performance di
 <div align="center">
   <p>I enjoy discussing scalable system architectures, hyperlocal supply chains, and internship opportunities.</p>
   
-  <a href="https://neel-belsare.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Website-Visit_Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://neelbelsare.vercel.app">
+    <img src="https://img.shields.io/badge/Website-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:neelbelsaredpvn@gmail.com">
