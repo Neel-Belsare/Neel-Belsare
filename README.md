@@ -1,49 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=190&section=header&text=Neel%20Belsare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Systems%20Engineer%20%7C%20Spatial%20Logistics%20Architect&descFontSize=17&descAlignY=58&descColor=FF6B35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=180&section=header&text=Neel%20Belsare&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Systems%20Engineer%20%7C%20Spatial%20Logistics%20Architect&descFontSize=16&descAlignY=60&descColor=FF6B35" width="100%" />
 
   <br/><br/>
 
   <table>
     <tr>
-      <td width="38%" align="center" valign="middle">
+      <td width="36%" align="center" valign="middle">
         <a href="https://neelbelsare.vercel.app">
-          <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_waving.jpg" width="260" alt="Neel Belsare 3D Avatar" style="border-radius: 14px; border: 2px solid #FF6B35;" />
+          <img src="https://raw.githubusercontent.com/Neel-Belsare/Neel-Belsare/main/avatar_full.jpg" width="270" alt="Neel Belsare 3D Avatar" style="border-radius: 14px; border: 2px solid #FF6B35;" />
         </a>
       </td>
-      <td width="62%" align="center" valign="middle">
-        <h2>👋 Welcome to my GitHub!</h2>
-        <br/>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=450&lines=Building+Hyper-Optimized+Distributed+Systems;Sub-10m+Quick-Commerce+Architecture;React+Native+%E2%80%A2+Next.js+14+%E2%80%A2+FastAPI;Open+for+Engineering+Roles+%26+Internships" alt="Typing SVG" />
-        </a>
-        <br/><br/>
-        <p align="center">
-          <a href="https://neelbelsare.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-          <br/><br/>
-          <a href="https://my-dark-store-app.streamlit.app/"><img src="https://img.shields.io/badge/Live_3D_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-          &nbsp;
-          <a href="https://blinkit-aurangabad.netlify.app"><img src="https://img.shields.io/badge/Consumer_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-          <br/><br/>
-          <a href="mailto:neelbelsaredpvn@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <td width="64%" valign="middle">
+        <h3>👋 Hi, I'm Neel Belsare</h3>
+        <p>
+          <b>Systems &amp; Full-Stack Engineer</b> building high-performance distributed platforms, spatial dispatch engines, and intuitive consumer products.
         </p>
+        <p>
+          <a href="https://neelbelsare.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-neelbelsare.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+          &nbsp;
+          <a href="https://my-dark-store-app.streamlit.app/"><img src="https://img.shields.io/badge/Live_3D_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+        </p>
+        <ul>
+          <li>⚡ <b>Flagship System:</b> <b>Aurangabad Quick-Commerce Dark Store Ecosystem (v4.0)</b> — an autonomous 10-minute grocery delivery network across 12 micro-fulfillment hubs serving 1.91M citizens.</li>
+          <li>🎯 <b>Areas of Focus:</b> Spatial Graph Routing (OSRM/Haversine), Warehouse S-Curve Picking Heuristics (NumPy), Real-Time 3D Telemetry (PyDeck), and Low-Latency Edge APIs (FastAPI / Supabase).</li>
+          <li>📍 <b>Location:</b> Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India.</li>
+          <li>💼 <b>Status:</b> Open to Software Engineering Internships &amp; Full-Stack Roles.</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
-
----
-
-### 👨‍💻 About Me
-
-I am a **Systems & Full-Stack Engineer** building high-performance distributed platforms, spatial dispatch engines, and intuitive consumer products.
-
-- 🌐 **Interactive Portfolio:** Explore my live projects, tech stack, and interactive 3D demos at **[https://neelbelsare.vercel.app](https://neelbelsare.vercel.app)**
-- ⚡ **Flagship Engineering Showcase:** Designed and built the **Aurangabad Quick-Commerce Dark Store Ecosystem (v4.0)** — an autonomous 10-minute grocery delivery network across 12 micro-fulfillment hubs serving 1.91M citizens.
-- 🎯 **Areas of Focus:** Spatial Graph Routing (OSRM/Haversine), Warehouse S-Curve Picking Heuristics (NumPy), Real-Time 3D Telemetry (PyDeck), and Low-Latency Edge APIs (FastAPI / Supabase).
-- 📍 **Location:** Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India.
-- 💼 **Status:** Open to Software Engineering Internships & Full-Stack Opportunities.
 
 <br/>
 
